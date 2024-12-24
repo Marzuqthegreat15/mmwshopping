@@ -46,7 +46,7 @@
     </p>
 
 	<style>
-		.container {
+		/* .container {
 			display: flex;
 			border: 60px solid #333;
             width: 2000px;
@@ -56,15 +56,31 @@
 			flex: 1;
             width: 300px;
 			/* margin: 20px; */
-			padding: 100px;
+			/* padding: 100px;
 			border: 25px solid #333;
-            width: 300px;
+            width: 300px; */
             /* border-radius: 8px */
             
             
-		}
+		
+        /* <style> */ */
+        .container {
+            display: flex;
+            width: 100%;
+            margin: 20px;
+            border-radius: 15px; /* Rounded corners for the container */
+            overflow: hidden; /* Ensures child elements fit with rounded corners */
+            background-color: #f4f4f4; /* Optional background color for container */
+        }
 
-        
+        .box {
+            flex: 1;
+            padding: 20px;
+            margin: 10px;
+            border: 2px solid #333;
+            border-radius: 12px; /* Rounded corners for the individual boxes */
+            background-color: #fff; /* Background color for the boxes */
+        }
 	</style>
 </head>
 <body>
