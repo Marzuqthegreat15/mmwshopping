@@ -45,14 +45,17 @@ p{
 
   .goals{
     font-size: 40px , bold;
+    border-radius: 10%;
   }
 
   .finances{
     font-size: 40px , bold;
+    border-radius: 10%;
   }
 
   .info{
     font-size: 40px , bold;
+    border-radius: 10%;
   }
 
   /* .div1{
@@ -63,4 +66,3 @@ p{
     margin: 20px;
   } */
 
-  
