@@ -56,9 +56,9 @@ p{
   }
 
   div {
-    background-color: green;
-    width: 300px;
-    border: 15px solid #333;
+    background-color: #fff;
+    width: 1000px;
+    border: 180px solid #333;
     padding: 50px;
     margin: 20px;
   }
