@@ -56,6 +56,7 @@ p{
   }
 
   div {
+    background-color: green;
     width: 300px;
     border: 15px solid #333;
     padding: 50px;
