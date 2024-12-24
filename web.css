@@ -54,3 +54,10 @@ p{
   .info{
     font-size: 40px , bold;
   }
+
+  div {
+    width: 300px;
+    border: 15px solid #333;
+    padding: 50px;
+    margin: 20px;
+  }
