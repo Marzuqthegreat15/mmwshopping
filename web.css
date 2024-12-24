@@ -55,7 +55,7 @@ p{
     font-size: 40px , bold;
   }
 
-  div {
+  .div1 {
     background-color: #fff;
     width: 1000px;
     border: 180px solid #333;
