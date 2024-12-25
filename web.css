@@ -36,7 +36,7 @@ p{
   }
   
   .topnav a.active {
-    color: greenyellow;
+    background-color: greenyellow;
     color: white;
   }
   
