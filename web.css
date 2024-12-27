@@ -97,16 +97,13 @@ p{
     color: black;
   }
   
-  .topnav b.active a {
-    background-color: green;
-    color: white;
-  }
+
   
   .topnav-right {
     float: right;
   }
 
-  .topnavc{
+  .topnavd{
     float: left;
     color: #f2f2f2;
     text-align: center;
@@ -115,17 +112,14 @@ p{
     font-size: 16px , bold;
   }
   
-  .topnavc :hover {
+  .topnavd :hover {
     background-color: #ddd;
     color: black;
   }
   
-  .topnavc.active b {
-    background-color: green;
-    color: white;
-  }
+
   
-  .topnav-right {
+  .topnavd-right {
     float: right;
   }
 
